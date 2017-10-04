@@ -1,0 +1,5 @@
+[openstack20]
+name=Oracle Linux 7 (x86_64) OpenStack 2.0
+baseurl=http://public-yum.oracle.com/repo/OracleLinux/OL7/openstack20/x86_64
+enabled=1
+gpgcheck=0
