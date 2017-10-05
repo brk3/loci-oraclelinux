@@ -1,0 +1,5 @@
+[openstack30]
+name=Oracle Linux 7 (x86_64) OpenStack 3.0
+baseurl=http://public-yum.oracle.com/repo/OracleLinux/OL7/openstack_extras/x86_64
+enabled=1
+gpgcheck=0
